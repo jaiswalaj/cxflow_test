@@ -5,4 +5,3 @@ spring:
     vault:
       uri: http://127.0.0.1:8200
       token: hvs.WY7xzCRFgkN0w8ICNOTSW0j2
-      
