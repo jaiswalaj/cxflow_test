@@ -1,7 +1,2 @@
-spring:
-  main:
-    web-application-type: none
-  cloud:
-    vault:
-      uri: http://127.0.0.1:8200
-      token: hvs.WY7xzCRFgkN0w8ICNOTSW0j2
+uri: http://127.0.0.1:8200
+token: hvs.95unvjkDqHlK5PRCIyYhxIzO
